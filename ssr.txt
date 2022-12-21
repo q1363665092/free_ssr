@@ -1,0 +1,134 @@
+[
+    {
+        "address":"46.29.165.108",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯M",
+        "security":"rc4"
+    },
+    {
+        "address":"195.133.11.127",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯N",
+        "security":"rc4"
+    },
+    {
+        "address":"46.29.167.160",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯O",
+        "security":"rc4"
+    },
+    {
+        "address":"2.56.241.171",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯P",
+        "security":"rc4"
+    },
+    {
+        "address":"45.8.159.153",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯Q",
+        "security":"rc4"
+    },
+    {
+        "address":"45.89.228.102",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯R",
+        "security":"rc4"
+    },
+    {
+        "address":"45.130.147.178",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯S",
+        "security":"rc4"
+    },
+    {
+        "address":"194.50.171.150",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯T",
+        "security":"rc4"
+    },
+    {
+        "address":"45.8.158.14",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯U",
+        "security":"rc4"
+    },
+    {
+        "address":"45.89.228.214",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯V",
+        "security":"rc4"
+    },
+    {
+        "address":"194.156.120.3",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯W",
+        "security":"rc4"
+    },
+    {
+        "address":"2.56.240.111",
+        "id":"lncn.org w8d",
+        "network":"origin",
+        "obfs":"plain",
+        "obfsParam":"",
+        "port":"31119",
+        "protocol":"ssr",
+        "ps":"俄罗斯X",
+        "security":"rc4"
+    }
+]
